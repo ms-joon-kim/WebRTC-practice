@@ -1,0 +1,16 @@
+{
+  "name": "WebRTC-practice",
+  "version": "1.0.0",
+  "main": "dist/js/main.js",
+  "repository": "https://github.com/seongjooon/WebRTC-practice.git",
+  "author": "seongjooon <seongjooon@gmail.com>",
+  "license": "MIT",
+  "scripts": {"start": "node dist/main.js"},
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
